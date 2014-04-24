@@ -1,0 +1,3 @@
+default: --no-source --color --format pretty
+
+#default: --no-source --color --format PrettyFace::Formatter::Html --out results/index.html
